@@ -297,7 +297,7 @@ section{
     align-items: center;
     justify-content: center;
     opacity: 0;
-    transition-delay: 0.3s;
+    transition-delay: 0.1s;
 }
 
 .equipo .box-container .box:hover .content{
